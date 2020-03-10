@@ -39,6 +39,14 @@ LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/28
 
 > Fault isolation domains
 
+### Edge Infrastructure
+
+* Edge location in major cities.
+* Storage and compute location.
+* Improves the user experience.
+* You cannot deploy most services in edge locations.
+
+
 
 
 
