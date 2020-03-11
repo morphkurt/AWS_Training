@@ -2,6 +2,7 @@
 
 LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/3)
 
+![](images/architecture_principle "High Availability, Fault Tolerance and Disaster Recovery")
 ## HA 
 
 Ability recover from a failure
