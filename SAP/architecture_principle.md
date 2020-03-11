@@ -33,5 +33,6 @@ LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/28
 * Amount of data lose.
 
 
-
 ## RTO - Recovery Time Objective
+
+* Time from disaster occurs and time to recover the platform.
