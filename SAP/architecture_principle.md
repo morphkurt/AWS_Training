@@ -1,4 +1,4 @@
-## High Availability, Fault Tolerance and Disaster Recovery
+# High Availability, Fault Tolerance and Disaster Recovery
 
 LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/3)
 
@@ -20,3 +20,18 @@ Ability recover from a failure
 ## DR
 
 Separate process outside of HA and FT. A different system protects critical system data and recreate the system.
+
+# RPO and RTO
+
+LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/4)
+
+![](images/rto_rpo.png "High Availability, Fault Tolerance and Disaster Recovery")
+
+## RPO - Recovery Point Objective
+
+* When disaster occurs and the last recoverable backup is.
+* Amount of data lose.
+
+
+
+## RTO - Recovery Time Objective
