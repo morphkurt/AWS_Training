@@ -39,7 +39,7 @@ LA RPO and RTO - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/28
 
 # Data Persistance
 
-LA Data Persistance - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/4)
+LA Data Persistance - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/5)
 
 ## Ephemeral
 
@@ -51,9 +51,7 @@ Data is local to resource, the data is lost when resources are turned off. (ie: 
 
 Type of storage used within Software development architecture. Injected into memory where other services will use that memory.
 
-(ie: SQS / EKS)
-
-
+(ie: SQS )
 
 ## Persistent
 
