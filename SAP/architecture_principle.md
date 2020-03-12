@@ -23,7 +23,7 @@ Separate process outside of HA and FT. A different system protects critical syst
 
 # RPO and RTO
 
-LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/4)
+LA RPO and RTO - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/4)
 
 ![](images/rto_rpo.png "High Availability, Fault Tolerance and Disaster Recovery")
 
@@ -36,3 +36,27 @@ LA AWS Account - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/28
 ## RTO - Recovery Time Objective
 
 * Time from disaster occurs and time to recover the platform.
+
+# Data Persistance
+
+LA Data Persistance - [Bookmark](https://linuxacademy.com/cp/courses/lesson/course/2851/lesson/4)
+
+## Ephemeral
+
+Data is local to resource, the data is lost when resources are turned off. (ie: RAM drive / instance store)
+
+> fastest storage.
+
+## Transient
+
+Type of storage used within Software development architecture. Injected into memory where other services will use that memory.
+
+(ie: SQS / EKS)
+
+
+
+## Persistent
+
+EBS
+S3
+EFS
